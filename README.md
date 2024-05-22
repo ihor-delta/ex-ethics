@@ -21,3 +21,5 @@ Further I will use word "researcher" to mark an individual (a representative of 
 The main idea of this discussion is the actions of the researcher, which are not limited to the context of society, but are directed towards reality as a whole.
 
 The question of the researcher’s spirituality will be omitted within the framework of these discussions.  I will try to give a theoretical justification for ethics (the principle of action).
+
+Also, within the framework of the ethics of existence (hereinafter - ethics), we dare to talk not about an action that occurs in reality, but about an action aimed at reality - that is, about a certain thinking action (operation) carried out on the reality itself of the researcher before directing  action into reality.
