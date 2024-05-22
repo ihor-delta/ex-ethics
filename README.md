@@ -10,4 +10,8 @@ As part of the discussion, I will try to answer the question: _"in what manner s
 
 # Manifest
 
+Further I will use word "researcher" to mark an individual (a representative of subjective reality).
+
 The main idea of this discussion is the actions of the researcher, which are not limited to the context of society, but are directed towards reality as a whole.
+
+The question of the researcher’s spirituality will be omitted within the framework of these discussions.  I will try to give a theoretical justification for ethics (the principle of action).
