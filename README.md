@@ -12,7 +12,7 @@ As part of the discussion, I will try to answer the question: _"in what manner s
 
 ## Why I call it "Ethics of Existance"?
 
-... (In Progress)
+This name was chosen as the most suitable within the framework of the ethics of human existence because  This discussion answers the question: _How should we exist in reality?_
 
 # Manifest
 
