@@ -1,4 +1,4 @@
-_Copyright © 2024 Ihor Delta. All Rights Reserved.
+_Copyright © 2024 Ihor Delta. All Rights Reserved._
 
 ## Ethics of Existance
 
