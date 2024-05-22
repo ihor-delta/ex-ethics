@@ -1,5 +1,11 @@
 _Copyright © 2024 Ihor Delta. All Rights Reserved._
 
+# Contents
+
+- [Ethics of Existance](#ethics-of-existance)
+  - [Why I call it "Ethics of Existance"?](#why-i-call-it-ethics-of-existance)
+- [Manifest](#manifest)
+
 # Ethics of Existance
 
 As part of the discussion, I will try to answer the question: _"in what manner should we exist in reality, in the sense of how should we act in relation to reality?"_
