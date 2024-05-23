@@ -45,6 +45,8 @@ Crises seem inevitable, but if you develop an approach to resolving them, they b
 
 Stability implies the presence of a certain unchangeable structure of the system, which will lead to the stable nature of its functioning. In my opinion, the achievement of such a structure of society is an indicator of the achievement of the common good, which will be the basis for achieving stability of its (society’s) representatives.
 
+An invariable characteristic of the life of a researcher and society is the presence of challenges in it. Including an approach to their resolution into the structure of the system is a necessary condition for the stable functioning of the system.
+
 ## Tendency to Change
 
 Reality have a tendency to change even without the effectual participation of the researcher.
