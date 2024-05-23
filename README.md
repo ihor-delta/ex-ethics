@@ -11,6 +11,7 @@ _Copyright © 2024 Ihor Delta. All Rights Reserved._
   - [Unified System Society](#unified-system-society)
   - [The Principle](#the-principle)
 - [Links](#links)
+- [Epilogue](#epilogue)
 
 # Ethics of Existance
 
@@ -77,3 +78,9 @@ Following this principle presupposes the recognition of systems in the phenomena
 _**i.**_ [System / Wikipedia](https://en.m.wikipedia.org/wiki/System)
 
 _**ii.**_ [Ethics / Wikipedia](https://en.m.wikipedia.org/wiki/Ethics)
+
+# Epilogue
+
+My ideal of society may seem cosmopolitan or even utopian, but I am still a fan of it. I will wait for the concept of “healthy competition” to be replaced by the concept of “healthy cooperation”, where the competitive nature of man will be pacified by a _system of challenges_.
+
+> "Borders are imaginary, but people are different. As nations are separated by invisible lines, humanity is united by diversity." - Dr. Lucas D. Shallua
