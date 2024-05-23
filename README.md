@@ -7,6 +7,7 @@ _Copyright © 2024 Ihor Delta. All Rights Reserved._
 - [Manifest](#manifest)
 - [Discussion](#discussion)
   - [Tendency to Change](#tendency-to-change)
+  - [What is stability?](#what-is-stability)
 
 # Ethics of Existance
 
@@ -39,6 +40,8 @@ Within the reality of the researcher, a necessary condition for the ethics of hi
 The ideal is a difficult thing to achieve, and therefore I dare to talk about goal setting to achieve it. The goal is the following: to achieve a state of stability for the researcher/society, which will be the basis for achieving it (ideal). The main feature of the required level of stability in the context of the ideal motive is the absence of crises that increase the risk of collapse of the system (researcher or society). 
 
 Crises seem inevitable, but if you develop an approach to resolving them, they become part of the process of stability.
+
+## What is stability?
 
 ## Tendency to Change
 
