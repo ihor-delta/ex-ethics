@@ -8,6 +8,7 @@ _Copyright © 2024 Ihor Delta. All Rights Reserved._
 - [Discussion](#discussion)
   - [What is stability?](#what-is-stability)
   - [Tendency to Change](#tendency-to-change)
+  - [Unified System Society](#unified-system-society)
 
 # Ethics of Existance
 
@@ -54,3 +55,7 @@ Reality have a tendency to change even without the effectual participation of th
 Evolution and development is a factor that can lead to crises/collapse. 
 
 A controlled process of changes in the structure of the system is a condition for the success of society in achieving the common good.
+
+## Unified System Society
+
+In the realities of the 21st century, society functions as many systems and its general structure has yet to be arrived at unless it collapses.
