@@ -68,7 +68,7 @@ This idea implies that the researcher/society are under the process of his/its d
 
 The principle of ethics may look like this:
 
-> As part of your activities, directed at or within a system, you need to consider whether the result of the action violates the process of maintaining the stability of the system, even in the context of its evolution/development.
+> As part of your activities, directed at or within a systemic conceptual phenomenon, you need to consider whether the result of the action violates the process of maintaining the stability of the system, even in the context of its evolution/development.
 
 Following this principle presupposes the recognition of systems in the phenomena of reality.
 
