@@ -81,6 +81,8 @@ _**i.**_ [System / Wikipedia](https://en.m.wikipedia.org/wiki/System)
 
 _**ii.**_ [Ethics / Wikipedia](https://en.m.wikipedia.org/wiki/Ethics)
 
+_**iii.**_ [Sociocybernetics](https://en.m.wikipedia.org/wiki/Sociocybernetics)
+
 # Epilogue
 
 My ideal of society may seem cosmopolitan or even utopian, but I am still a fan of it. I will wait for the concept of “healthy competition” to be replaced by the concept of “healthy cooperation”, where the competitive nature of man will be pacified by a _system of challenges_.
