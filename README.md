@@ -6,8 +6,8 @@ _Copyright © 2024 Ihor Delta. All Rights Reserved._
   - [Why I call it "Ethics of Existance"?](#why-i-call-it-ethics-of-existance)
 - [Manifest](#manifest)
 - [Discussion](#discussion)
-  - [Tendency to Change](#tendency-to-change)
   - [What is stability?](#what-is-stability)
+  - [Tendency to Change](#tendency-to-change)
 
 # Ethics of Existance
 
