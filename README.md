@@ -50,3 +50,7 @@ An invariable characteristic of the life of a researcher and society is the pres
 ## Tendency to Change
 
 Reality have a tendency to change even without the effectual participation of the researcher.
+
+Evolution and development is a factor that can lead to crises/collapse. 
+
+A controlled process of changes in the structure of the system is a condition for the success of society in achieving the common good.
