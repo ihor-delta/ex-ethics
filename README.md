@@ -68,6 +68,8 @@ The principle of ethics may look like this:
 
 > As part of your activities, directed at or within a system, you need to consider whether the result of the action violates the process of maintaining the stability of the system, even in the context of its evolution/development.
 
+Following this principle presupposes the recognition of systems in the phenomena of reality.
+
 # Links
 
 _**i.**_ [System / Wikipedia](https://en.m.wikipedia.org/wiki/System)
