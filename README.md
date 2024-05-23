@@ -54,7 +54,7 @@ An invariable characteristic of the life of a researcher and society is the pres
 
 Reality have a tendency to change even without the effectual participation of the researcher.
 
-Evolution and development is a factor that can lead to crises/collapse. 
+Evolution and development is a factor that can lead to crises/collapse, the overcoming of which must be determined by the presence of an approach to its resolution.
 
 A controlled process of changes in the structure of the system is a condition for the success of society in achieving the common good.
 
