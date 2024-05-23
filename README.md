@@ -28,6 +28,18 @@ Also, within the framework of the ethics of existence (hereinafter - ethics), we
 
 # Discussion
 
+For now, or completely, we cannot go beyond the spatio-temporal limitations of our reality, which means we have to exist within these limitations.  A change in this state of affairs will inevitably lead to the collapse of systems existing in reality, to a change in the patterns arising from these restrictions, which are the basis for stable activity.  
+
+The motive of society is the common good.  What is the motive of human existence? The answer is the achievement of some idea of reality.  
+
+We exist within the framework of a certain state of affairs in reality, mastering the patterns based on this state of affairs, adjusting our actions in order to achieve another, necessary for us, state of affairs - the ideal.
+
+Within the reality of the researcher, a necessary condition for the ethics of his existence is the correlation of his ideal with the ideal of the common good of society. This process is possible only if the stability condition of both of these systems is met.
+
+The ideal is a difficult thing to achieve, and therefore I dare to talk about goal setting to achieve it. The goal is the following: to achieve a state of stability for the researcher/society, which will be the basis for achieving it (ideal). The main feature of the required level of stability in the context of the ideal motive is the absence of crises that increase the risk of collapse of the system (researcher or society). 
+
+Crises seem inevitable, but if you develop an approach to resolving them, they become part of the process of stability.
+
 ## Tendency to Change
 
 Reality have a tendency to change even without the effectual participation of the researcher.
