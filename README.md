@@ -43,6 +43,8 @@ Crises seem inevitable, but if you develop an approach to resolving them, they b
 
 ## What is stability?
 
+Stability implies the presence of a certain unchangeable structure of the system, which will lead to the stable nature of its functioning. In my opinion, the achievement of such a structure of society is an indicator of the achievement of the common good, which will be the basis for achieving stability of its (society’s) representatives.
+
 ## Tendency to Change
 
 Reality have a tendency to change even without the effectual participation of the researcher.
