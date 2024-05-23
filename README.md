@@ -65,4 +65,4 @@ In the realities of the 21st century, society functions as many systems, that is
 
 The principle of ethics may look like this:
 
-> As part of its activity, it is necessary to consider whether the action leads to maintaining the stability of the system (of researcher or society) even in the context of its evolution/development.
+> As part of your activities, you need to consider whether the result of the action violates the process of maintaining the stability of the system, even in the context of its evolution/development.
