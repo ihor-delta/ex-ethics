@@ -65,6 +65,8 @@ This idea implies that the researcher/society are under the process of his/its d
 
 In the realities of the 21st century, society functions as many systems, that is good for its evolution, but not for its functioning as a whole, and its general structure has yet to be arrived at unless it collapses.
 
+Society, like the researcher, follows the path of least resistance.  I really hope that society does not make the task of its own evolution so difficult that it occurs through collapse.
+
 ## The Principle
 
 The principle of ethics may look like this:
