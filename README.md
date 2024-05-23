@@ -70,5 +70,6 @@ The principle of ethics may look like this:
 
 # Links
 
-_**i.**_ [System / Wikipedia](https://en.m.wikipedia.org/wiki/System)<br />
+_**i.**_ [System / Wikipedia](https://en.m.wikipedia.org/wiki/System)
+
 _**ii.**_ [Ethics / Wikipedia](https://en.m.wikipedia.org/wiki/Ethics)
