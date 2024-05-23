@@ -81,7 +81,7 @@ _**i.**_ [System / Wikipedia](https://en.m.wikipedia.org/wiki/System)
 
 _**ii.**_ [Ethics / Wikipedia](https://en.m.wikipedia.org/wiki/Ethics)
 
-_**iii.**_ [Sociocybernetics](https://en.m.wikipedia.org/wiki/Sociocybernetics)
+_**iii.**_ [Sociocybernetics / Wikipedia](https://en.m.wikipedia.org/wiki/Sociocybernetics)
 
 # Epilogue
 
