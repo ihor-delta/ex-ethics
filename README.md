@@ -9,6 +9,7 @@ _Copyright © 2024 Ihor Delta. All Rights Reserved._
   - [What is stability?](#what-is-stability)
   - [Tendency to Change](#tendency-to-change)
   - [Unified System Society](#unified-system-society)
+  - [The Principle](#the-principle)
 
 # Ethics of Existance
 
@@ -59,3 +60,9 @@ A controlled process of changes in the structure of the system is a condition fo
 ## Unified System Society
 
 In the realities of the 21st century, society functions as many systems, that is good for its evolution, but not for its functioning as a whole, and its general structure has yet to be arrived at unless it collapses.
+
+## The Principle
+
+The principle of ethics may look like this:
+
+> As part of its activity, it is necessary to consider whether the action leads to maintaining the stability of the system (of researcher or society) even in the context of its evolution/development.
