@@ -10,6 +10,7 @@ _Copyright © 2024 Ihor Delta. All Rights Reserved._
   - [Tendency to Change](#tendency-to-change)
   - [Unified System Society](#unified-system-society)
   - [The Principle](#the-principle)
+- [Links](#links)
 
 # Ethics of Existance
 
@@ -66,3 +67,7 @@ In the realities of the 21st century, society functions as many systems, that is
 The principle of ethics may look like this:
 
 > As part of your activities, you need to consider whether the result of the action violates the process of maintaining the stability of the system, even in the context of its evolution/development.
+
+# Links
+
+_**i**._ [System / Wikipedia](https://en.m.wikipedia.org/wiki/System)
