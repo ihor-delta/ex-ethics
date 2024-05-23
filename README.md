@@ -58,4 +58,4 @@ A controlled process of changes in the structure of the system is a condition fo
 
 ## Unified System Society
 
-In the realities of the 21st century, society functions as many systems and its general structure has yet to be arrived at unless it collapses.
+In the realities of the 21st century, society functions as many systems, that is good for its evolution, but not for its functioning as a whole, and its general structure has yet to be arrived at unless it collapses.
