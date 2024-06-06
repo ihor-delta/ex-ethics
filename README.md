@@ -31,6 +31,8 @@ The question of the researcher’s spirituality will be omitted within the frame
 
 Also, within the framework of the ethics of existence (hereinafter - ethics), we dare to talk not about an action that occurs in reality, but about an action aimed at reality - that is, about a certain thinking action (operation) carried out on the reality itself of the researcher before directing  action into reality.
 
+We can think of actions as bad or good by their consequences (profit or loss), or think of actions as bad or good by their quality. Here we will consider quality of actions in relation to reality.
+
 # Discussion
 
 For now, or completely, we cannot go beyond the spatio-temporal limitations of our reality, which means we have to exist within these limitations.  A change in this state of affairs will inevitably lead to the collapse of systems existing in reality, to a change in the patterns arising from these restrictions, which are the basis for stable activity.  
