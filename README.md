@@ -2,8 +2,8 @@ _Copyright © 2024 Ihor Delta. All Rights Reserved._
 
 # Contents
 
-- [Ethics of Existence](#ethics-of-existance)
-  - [Why I call it "Ethics of Existence"?](#why-i-call-it-ethics-of-existance)
+- [Ethics of Existence](#ethics-of-existence)
+  - [Why I call it "Ethics of Existence"?](#why-i-call-it-ethics-of-existence)
 - [Manifest](#manifest)
 - [Discussion](#discussion)
   - [What is stability?](#what-is-stability)
