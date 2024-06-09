@@ -2,8 +2,8 @@ _Copyright © 2024 Ihor Delta. All Rights Reserved._
 
 # Contents
 
-- [Ethics of Existance](#ethics-of-existance)
-  - [Why I call it "Ethics of Existance"?](#why-i-call-it-ethics-of-existance)
+- [Ethics of Existence](#ethics-of-existance)
+  - [Why I call it "Ethics of Existence"?](#why-i-call-it-ethics-of-existance)
 - [Manifest](#manifest)
 - [Discussion](#discussion)
   - [What is stability?](#what-is-stability)
@@ -13,11 +13,11 @@ _Copyright © 2024 Ihor Delta. All Rights Reserved._
 - [Links](#links)
 - [Epilogue](#epilogue)
 
-# Ethics of Existance
+# Ethics of Existence
 
 As part of the discussion, I will try to answer the question: _"in what manner should we exist in reality, in the sense of how should we act in relation to reality?"_
 
-## Why I call it "Ethics of Existance"?
+## Why I call it "Ethics of Existence"?
 
 This name was chosen as the most suitable within the framework of the ethics of human existence because this discussion answers the question: _How should we exist in reality [what should we do and in what manner]?_
 
